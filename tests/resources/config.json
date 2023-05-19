@@ -4,6 +4,7 @@
 	"times_per_frame":1,
 	"shift_coordinates": true,
 	"scale": 0.5,
+	"swap_yz": false,
 	"variables": [{
 		"name": "Mesh2d_waterdepth",
 		"color": [0.38, 0.73, 0.78, 1.0],
